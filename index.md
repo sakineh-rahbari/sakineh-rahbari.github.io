@@ -1,49 +1,41 @@
 
-### Melika Zamanzadeh
+### sakineh-rahbari
 <a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Melika
-+ last name :zamanzadeh
-+ Date of birth : 1997/sep/8
++ name: sakineh
++ last name :rahbari
++ Date of birth : 1999/Dec/30
 +  Computer engineering student
 + location : Tehran , I.R.Iran
-
++ phone number: 09908611315
 
 ### Skill Highlights
 
 ---
-+ accountant
-+ store software
-+ web design
-+ programming
++ c++
 + java script
 
 ### Education
 
 ---
-+ Diploma : hananeh school
-_ 2015
+
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of parand 
+_ 2018,payam Noor University of damavand
 
 ### Favorites
 
 ---
-+ Web design
-+ computer games
+
 + book reading 
-+ travel 
++ travel
++ music
 
-### working Experience
 
----
-+ store IT expert
-+ car dealership accounting
 
-### [contact with me](melikaa.zamanzade@gmail.com)
+### [contact with me](sakinerahbari1378@gmail.com)
 
 
 --- 
