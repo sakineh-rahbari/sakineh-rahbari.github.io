@@ -1,6 +1,5 @@
 
 ### sakineh-rahbari
-<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
